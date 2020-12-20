@@ -2,13 +2,13 @@ import java.io.File
 
 fun main(args: Array<String>) {
     try {
-        println(dayXpart1())
+        println(day9part1())
     } catch (e: Exception) {
         println(e)
     }
 }
 
-private fun dayXpart1(): String {
+private fun day9part1(): String {
     return readInput().toString()
 }
 
