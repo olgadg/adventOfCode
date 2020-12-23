@@ -2,60 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ad18b38-f6bf-4825-95f1-238d1ff39e33" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/Day14.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/day_14_input" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/day_14_input_example" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/day_14_input_example_2" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Bus.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day10Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day11Kt$part1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day11Kt$part2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day11Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day12Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day13Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day1Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day2Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day3Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day4Kt$day4part1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day4Kt$day4part2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day4Kt$readInput$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day4Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day5Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day6Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day7Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day8Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Day9Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/DayXKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Instruction.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/META-INF/adventOfCode.kotlin_module" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Move.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/PasswordPolicy.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Position.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/PositionDirection.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/Situation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_10_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_10_input_example" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_10_input_example_2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_11_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_11_input_example" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_12_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_12_input_example" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_13_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_13_input_example" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_2_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_3_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_4_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_5_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_6_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_7_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_7_input_example" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_8_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_8_input_example" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_9_input" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode/main/resources/day_9_input_example" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day10.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/Day10.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day13.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/Day13.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -242,6 +189,24 @@
           <expand>
             <path>
               <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
