@@ -76,7 +76,7 @@ private fun List<Int>.toJumps(): List<Int> {
 
 private fun List<Int>.count3(index: Int = 0, results: HashMap<Int, Long> = HashMap()): Long {
     if (results[index] != null) {
-        println("DONE: index=$index results=${results[index]}")
+        println("DONE: address=$index results=${results[index]}")
 
         return results[index]!!
     }
@@ -102,6 +102,6 @@ private fun List<Int>.count3(index: Int = 0, results: HashMap<Int, Long> = HashM
         }
     }
     results[index] = count
-    println("index=$index results=$count")
+    println("address=$index results=$count")
     return count
 }

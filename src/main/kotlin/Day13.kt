@@ -65,9 +65,9 @@ private fun Pair<Int, List<String>>.toBuses(): List<Bus> {
             .mapIndexed { index, bus ->
                 if (bus != "x") {
                     val id = bus.toLong()
-                    //Bus(id, (1 - index) % id)
+                    //Bus(id, (1 - address) % id)
                     Bus(id, index.toLong())
-                    //Bus(id, index)
+                    //Bus(id, address)
                 } else null
             }
             .filterNotNull()
